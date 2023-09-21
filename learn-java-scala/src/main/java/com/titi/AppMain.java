@@ -4,7 +4,7 @@ package com.titi;
  * Hello world!
  *
  */
-public class App 
+public class AppMain
 {
     public static void main( String[] args )
     {

@@ -5,20 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48f47e82-89c5-4160-89ff-4121bb019b72" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../HistoricalDataToHbase/zbj-transfer-data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bigdata-dolphinscheduler/.idea/bigdata-dolphinscheduler.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bigdata-label/label-server/src/main/java/com/xueqiu/bigdata/label/server/core/cross/dimcross/CrossFeaturePositionQuery.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bigdata-label/label-server/src/main/java/com/xueqiu/bigdata/label/server/core/cross/dimcross/CrossFeatureUserSymbolScoreQuery.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../bigdata-queryplatform/queryplatform-server/src/main/java/com/xueqiu/bigdata/queryplatform/server/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../canal_zbj/canal_zbj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-structure/data-structure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-sync/data-sync.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../flink-learn/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java-scala/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java-scala/src/main/java/com/titi/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java-scala/src/main/scala/com/titi/App.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn-java-scala/src/test/java/com/titi/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frauddetection/frauddetection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hadoop-learn/hadoop-learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hbase-handle/hbase-handle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-java-scala/src/main/scala/com/titi/ForDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mock-learn/mock-learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../query-platform/query-platform.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rocksdb-learn/rocksdb-learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-learn/scala-learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sourcetree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sqlparser/sqlparser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../word-count-beam/word-count-beam.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../xueqiu-analysis/metadata-server/src/main/java/com/xueqiu/bigdata/analysis/entity/vo/GroupInfoVO.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../xueqiu-analysis/metadata-server/src/main/java/com/xueqiu/bigdata/analysis/entity/vo/StrategyWithUserGroupVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-java-scala/src/main/java/com/titi/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java-scala/src/main/java/com/titi/AppMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-java-scala/src/main/scala/com/titi/App.scala" beforeDir="false" afterPath="$PROJECT_DIR$/learn-java-scala/src/main/scala/com/titi/WhileDemo.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +39,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -41,15 +54,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "1.8",
     "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.WhileDemo">
     <configuration name="App" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.titi.App" />
+      <option name="MAIN_CLASS_NAME" value="com.titi.AppMain" />
       <module name="learn-java-scala" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +82,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhileDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.titi.WhileDemo" />
+      <module name="learn-java-scala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.titi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.titi.App" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.titi.App" />
+      <module name="learn-java-scala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.titi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WhileDemo" />
+        <item itemvalue="Application.com.titi.App" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.HelloW" />
       </list>
